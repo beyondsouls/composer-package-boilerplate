@@ -1,0 +1,22 @@
+{
+    "name": "beyondsouls/package-name",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Biasi",
+            "email": "jan@beyondsouls.com",
+            "homepage": "https://beyond-souls.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": [],
+        "psr-0": {},
+        "psr-4": {}
+    }
+}
